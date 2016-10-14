@@ -1,0 +1,9 @@
+C:\Users\А\AppData\Local\Temporary Projects\Parser_eLibrary\bin\Debug\Parser_eLibrary.exe.config
+D:\Учеба\Text categorization\Кандидатская\Projects\Parser_eLibrary\Parser_eLibrary\Parser_eLibrary\bin\Debug\Parser_eLibrary.exe.config
+D:\Учеба\Text categorization\Кандидатская\Projects\Parser_eLibrary\Parser_eLibrary\Parser_eLibrary\bin\Debug\Parser_eLibrary.exe
+D:\Учеба\Text categorization\Кандидатская\Projects\Parser_eLibrary\Parser_eLibrary\Parser_eLibrary\bin\Debug\Parser_eLibrary.pdb
+D:\Учеба\Text categorization\Кандидатская\Projects\Parser_eLibrary\Parser_eLibrary\Parser_eLibrary\obj\Debug\Parser_eLibrary.csprojResolveAssemblyReference.cache
+D:\Учеба\Text categorization\Кандидатская\Projects\Parser_eLibrary\Parser_eLibrary\Parser_eLibrary\obj\Debug\Parser_eLibrary.Properties.Resources.resources
+D:\Учеба\Text categorization\Кандидатская\Projects\Parser_eLibrary\Parser_eLibrary\Parser_eLibrary\obj\Debug\Parser_eLibrary.csproj.GenerateResource.Cache
+D:\Учеба\Text categorization\Кандидатская\Projects\Parser_eLibrary\Parser_eLibrary\Parser_eLibrary\obj\Debug\Parser_eLibrary.exe
+D:\Учеба\Text categorization\Кандидатская\Projects\Parser_eLibrary\Parser_eLibrary\Parser_eLibrary\obj\Debug\Parser_eLibrary.pdb
